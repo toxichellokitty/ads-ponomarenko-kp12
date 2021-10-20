@@ -1,0 +1,14 @@
+C:\Users\vladi\OneDrive\Документи\Учеба\асд\лаб1\ads_lab1_task1\bin\Debug\netcoreapp3.1\ads_lab1_task1.exe
+C:\Users\vladi\OneDrive\Документи\Учеба\асд\лаб1\ads_lab1_task1\bin\Debug\netcoreapp3.1\ads_lab1_task1.deps.json
+C:\Users\vladi\OneDrive\Документи\Учеба\асд\лаб1\ads_lab1_task1\bin\Debug\netcoreapp3.1\ads_lab1_task1.runtimeconfig.json
+C:\Users\vladi\OneDrive\Документи\Учеба\асд\лаб1\ads_lab1_task1\bin\Debug\netcoreapp3.1\ads_lab1_task1.runtimeconfig.dev.json
+C:\Users\vladi\OneDrive\Документи\Учеба\асд\лаб1\ads_lab1_task1\bin\Debug\netcoreapp3.1\ads_lab1_task1.dll
+C:\Users\vladi\OneDrive\Документи\Учеба\асд\лаб1\ads_lab1_task1\bin\Debug\netcoreapp3.1\ads_lab1_task1.pdb
+C:\Users\vladi\OneDrive\Документи\Учеба\асд\лаб1\ads_lab1_task1\obj\Debug\netcoreapp3.1\ads_lab1_task1.csproj.AssemblyReference.cache
+C:\Users\vladi\OneDrive\Документи\Учеба\асд\лаб1\ads_lab1_task1\obj\Debug\netcoreapp3.1\ads_lab1_task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\OneDrive\Документи\Учеба\асд\лаб1\ads_lab1_task1\obj\Debug\netcoreapp3.1\ads_lab1_task1.AssemblyInfoInputs.cache
+C:\Users\vladi\OneDrive\Документи\Учеба\асд\лаб1\ads_lab1_task1\obj\Debug\netcoreapp3.1\ads_lab1_task1.AssemblyInfo.cs
+C:\Users\vladi\OneDrive\Документи\Учеба\асд\лаб1\ads_lab1_task1\obj\Debug\netcoreapp3.1\ads_lab1_task1.csproj.CoreCompileInputs.cache
+C:\Users\vladi\OneDrive\Документи\Учеба\асд\лаб1\ads_lab1_task1\obj\Debug\netcoreapp3.1\ads_lab1_task1.dll
+C:\Users\vladi\OneDrive\Документи\Учеба\асд\лаб1\ads_lab1_task1\obj\Debug\netcoreapp3.1\ads_lab1_task1.pdb
+C:\Users\vladi\OneDrive\Документи\Учеба\асд\лаб1\ads_lab1_task1\obj\Debug\netcoreapp3.1\ads_lab1_task1.genruntimeconfig.cache
