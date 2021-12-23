@@ -1,0 +1,14 @@
+C:\Users\vladi\OneDrive\Документи\Учеба\асд\lab4\obj\Debug\netcoreapp3.1\lab4.csproj.AssemblyReference.cache
+C:\Users\vladi\OneDrive\Документи\Учеба\асд\lab4\obj\Debug\netcoreapp3.1\lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\OneDrive\Документи\Учеба\асд\lab4\obj\Debug\netcoreapp3.1\lab4.AssemblyInfoInputs.cache
+C:\Users\vladi\OneDrive\Документи\Учеба\асд\lab4\obj\Debug\netcoreapp3.1\lab4.AssemblyInfo.cs
+C:\Users\vladi\OneDrive\Документи\Учеба\асд\lab4\obj\Debug\netcoreapp3.1\lab4.csproj.CoreCompileInputs.cache
+C:\Users\vladi\OneDrive\Документи\Учеба\асд\lab4\bin\Debug\netcoreapp3.1\lab4.exe
+C:\Users\vladi\OneDrive\Документи\Учеба\асд\lab4\bin\Debug\netcoreapp3.1\lab4.deps.json
+C:\Users\vladi\OneDrive\Документи\Учеба\асд\lab4\bin\Debug\netcoreapp3.1\lab4.runtimeconfig.json
+C:\Users\vladi\OneDrive\Документи\Учеба\асд\lab4\bin\Debug\netcoreapp3.1\lab4.runtimeconfig.dev.json
+C:\Users\vladi\OneDrive\Документи\Учеба\асд\lab4\bin\Debug\netcoreapp3.1\lab4.dll
+C:\Users\vladi\OneDrive\Документи\Учеба\асд\lab4\bin\Debug\netcoreapp3.1\lab4.pdb
+C:\Users\vladi\OneDrive\Документи\Учеба\асд\lab4\obj\Debug\netcoreapp3.1\lab4.dll
+C:\Users\vladi\OneDrive\Документи\Учеба\асд\lab4\obj\Debug\netcoreapp3.1\lab4.pdb
+C:\Users\vladi\OneDrive\Документи\Учеба\асд\lab4\obj\Debug\netcoreapp3.1\lab4.genruntimeconfig.cache
